@@ -1,6 +1,6 @@
 <img src="https://i.redd.it/hnngyi60gojb1.png" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" />
 <br>
-<h1 align="center">Hi 👋, I'm Tiago Wilson</h1>
+<h1 align="center">Hi 👋, I'm Dudubles</h1>
 <h3 align="center">Self-Taught Developer / Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dudubles&label=Profile%20views&color=0e75b6&style=flat" alt="dudubles" /> </p>
